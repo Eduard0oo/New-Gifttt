@@ -936,7 +936,7 @@
           opacity: 1;
         }
         .ramo img {
-          width: 100vmin;
+          width: 70vmin;
           margin-left: -30px;
           margin-right: -20px;
           height: auto;
@@ -967,4 +967,5 @@
         }
         .monte-der {
           margin-right: -30px;
+
         }
